@@ -13,5 +13,4 @@ if (userAnswer == 'yes') {
     document.write('<h3>Welcome ' + userName + '</h3>');
 } else {
     document.write('<h3>' + userName +' please leave!</h3>');
-    
 }

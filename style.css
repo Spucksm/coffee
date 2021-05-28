@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(165, 42, 42, 0.712);
+}
+
+header {
+    background-color: brown;
+    text-align: center;
+    border-style: inset;
+    border-width: 20px;
+    border-color: #00008b;
+    border-radius: 20px;
+    background-color: transparent;
+    margin: -10px;
+    padding-bottom: 50px;
+}
+
+h1 {
+    color: black;
+   
+}
+header li {
+    display: inline;
+    color: rgba(255, 255, 255, 0.66);
+    padding: 2px;
+    margin: 0px 50px 0px 10px;
+}
+
+
+
+section {
+    margin: 100px 50px 50px 50px;
+    width: 200px;
+    text-align: center;
+
+}
